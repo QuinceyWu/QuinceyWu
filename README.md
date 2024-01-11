@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm QuinceyWu</h1>
-<h3 align="center">Data Mining Engineer from Aptiv China.</h3>
+<h3 align="center">Data Mining Engineer</h3>
 
 - 🔭 I’m currently working on **Virtual simulation of automobiles**
 
